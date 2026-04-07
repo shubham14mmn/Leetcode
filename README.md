@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shubham14mmn/Leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shubham14mmn/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shubham14mmn/Leetcode/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
