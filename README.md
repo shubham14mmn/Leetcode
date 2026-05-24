@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shubham14mmn/Leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubham14mmn/Leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
