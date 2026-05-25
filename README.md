@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubham14mmn/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubham14mmn/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham14mmn/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
