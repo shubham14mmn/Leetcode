@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
