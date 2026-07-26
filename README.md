@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shubham14mmn/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubham14mmn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shubham14mmn/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubham14mmn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shubham14mmn/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/shubham14mmn/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubham14mmn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
