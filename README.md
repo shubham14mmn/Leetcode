@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubham14mmn/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubham14mmn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shubham14mmn/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubham14mmn/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shubham14mmn/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
