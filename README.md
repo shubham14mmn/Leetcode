@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shubham14mmn/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shubham14mmn/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shubham14mmn/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubham14mmn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubham14mmn/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shubham14mmn/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0213-house-robber-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shubham14mmn/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
