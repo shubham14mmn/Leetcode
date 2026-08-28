@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shubham14mmn/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham14mmn/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham14mmn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shubham14mmn/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shubham14mmn/Leetcode/tree/master/0012-integer-to-roman) |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubham14mmn/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubham14mmn/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubham14mmn/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shubham14mmn/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shubham14mmn/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
@@ -185,9 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubham14mmn/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/shubham14mmn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubham14mmn/Leetcode/tree/master/0062-unique-paths) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
