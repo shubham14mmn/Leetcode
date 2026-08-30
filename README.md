@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shubham14mmn/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0039-combination-sum) |
+| [0063-unique-paths-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/shubham14mmn/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham14mmn/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubham14mmn/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shubham14mmn/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shubham14mmn/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
