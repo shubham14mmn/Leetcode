@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shubham14mmn/Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham14mmn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shubham14mmn/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shubham14mmn/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/shubham14mmn/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham14mmn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shubham14mmn/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham14mmn/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Memoization
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/shubham14mmn/Leetcode/tree/master/0221-maximal-square) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
