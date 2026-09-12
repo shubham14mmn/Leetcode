@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/shubham14mmn/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shubham14mmn/Leetcode/tree/master/0221-maximal-square) |
+| [0274-h-index](https://github.com/shubham14mmn/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/shubham14mmn/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shubham14mmn/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubham14mmn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shubham14mmn/Leetcode/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/shubham14mmn/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/shubham14mmn/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubham14mmn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham14mmn/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham14mmn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shubham14mmn/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
